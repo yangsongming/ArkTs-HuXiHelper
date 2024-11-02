@@ -9,3 +9,5 @@ ArkTS-虎溪helper开发
 ----resources
 
 ----module.json5
+
+本项目也获得了重庆大学计算机学院年级最高分-99分
